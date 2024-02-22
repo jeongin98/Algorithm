@@ -2,7 +2,7 @@
 
 # 정수 N, M을 입력받기
 n, m = map(int, input().split())
- # N개의 화폐 단위 정보를 입력받기
+# N개의 화폐 단위 정보를 입력받기
 array = []
 for i in range(n):
     array.append(int(input()))
