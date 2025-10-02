@@ -1,12 +1,10 @@
-https://www.acmicpc.net/problem/2805
+https://www.acmicpc.net/problem/14725
 
 ### 풀이 날짜
 
-2025-09-24
+2025-10-01
 
 ### 문제 분석 요약
-
--
 
 ### 알고리즘 설계
 
@@ -16,10 +14,6 @@ https://www.acmicpc.net/problem/2805
 - 출력:
 
 #### 풀이 순서
-
-1.
-2.
-3.
 
 ## Python (백준 표준 입력 대응)
 
@@ -34,5 +28,7 @@ https://www.acmicpc.net/problem/2805
 ```
 
 ### 시간 복잡도
+
+-
 
 ### 느낀점 or 기억할 정보
